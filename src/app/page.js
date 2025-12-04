@@ -8,11 +8,11 @@ export default function Home() {
       <main className="max-w-lg flex flex-col gap-[10rem] row-start-2 items-center sm:items-start">
         <ul className="font-mono list-inside list-none text-sm/6 text-center sm:text-left">
           <li className="mb-2 text-sm/7 tracking-[-.01em]">
-            Hi, my name is Jordan Taylor. A{" "}
+            Hi, my name is Jordan Taylor. {" "}
             <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              Full Stack AI Engineer
+              Cloud Engineer / Architect & Technical Project Manager
             </code>
-            , Building Secure and Scalable AI Applications on Cloud Infrastructure.
+            .
           </li>
         </ul>
       </main>
